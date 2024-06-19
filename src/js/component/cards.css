@@ -1,0 +1,16 @@
+
+
+.tarjeta{
+    width: 18rem;
+}
+
+.tarjeta img{
+    width: 100%;
+    height: 225px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
